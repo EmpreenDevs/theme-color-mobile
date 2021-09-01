@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background-color: #e5e5e8;
+  --button-color: #3861fb;
+}
+
+body {
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  background-color: var(--background-color);
+}
+
+h1 {
+  font-size: 2rem;
+  padding-bottom: 2%;
+  color: var(--title-color);
+}
