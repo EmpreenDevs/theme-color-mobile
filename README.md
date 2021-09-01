@@ -1,4 +1,4 @@
-# Light/Dark Mode Themes Using CSS & JavaScript ☀️/🌙
+# CHANGE MOBILE TITLE BAR COLOR - HTML
 [![N|Solid](https://i.imgur.com/2dzkWT8.png)](https://www.youtube.com/watch?v=W_91DqZ59cc)
 
 ## 
